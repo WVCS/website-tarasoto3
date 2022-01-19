@@ -1,3 +1,33 @@
 body {
-
+  background-color: #5448C8
+}
+h1{
+  color: #AAA3CA
+    font-size: 400%
+    letter-spacing: 2px;
+}
+ul{
+  list-style-type:none;
+  background-color: #7F76C9
+    width: 25%
+    overflow: hidden;
+  position: fixed;
+  text-align:center;
+  left:0;
+  top:0;
+  margin: 30;
+}
+li{
+  float: middle;
+}
+li a{
+  display: block;
+  color: #958DCA
+    text-decoration: none;
+  padding: 20px 90px;
+}
+li a: hover {
+  background-color: #02C3BD
+    color: #037171
+    
 }
